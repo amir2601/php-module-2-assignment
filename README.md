@@ -18,9 +18,7 @@ A simple terminal-based app to manage contacts.
 **How to Run:**  
 ```bash
 php contact.php
-
 2. Quiz Application
-
 A simple multiple-choice quiz app that can store scores for each attempt.
 
 Features:
@@ -37,16 +35,15 @@ View previous scores anytime
 
 How to Run:
 
+bash
+Copy code
 php quiz.php
-
 🛠️ Requirements
-
 PHP 7.4+ (CLI mode)
 
 Run using terminal/command line (not in browser)
 
 📚 Concepts Used
-
 Variables & Arrays
 
 Functions
@@ -58,19 +55,21 @@ if / else conditions
 while(true) loops
 
 ✨ Example Output
-
 Contact App Menu:
 
+pgsql
+Copy code
 Contact Management System
 1. Add Contact
 2. View Contact
 3. Exit
+Quiz App Menu:
 
+markdown
+Copy code
 Quiz Application
 1. Start Quiz
 2. View Scores
 3. Exit
-
 📌 Note
-
 These projects are made for practice and learning purposes only.
